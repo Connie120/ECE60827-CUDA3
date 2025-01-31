@@ -199,7 +199,7 @@
 	extern int gemmLayer_gpu (float * a, TensorShape aShape, 
 		float * b, TensorShape bShape,
 		float * c, TensorShape cShape,
-		GemmLayerArgs & args);
+		GemmLayerArgs args);
 
 	extern int runGpuGemm (int argc, char ** argv);
 

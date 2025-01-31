@@ -1,7 +1,7 @@
 
 # ECE 60827 CUDA Programming Part 3
 
-## Professor Tim Rogers <br> TA: Christin Bose
+## Professor T. N. Vijaykumar <br> TA: Ni Kang
 
 ## Due on March 2, 2024
 
@@ -99,6 +99,7 @@ Note that for this layer, you will have an input matrix that is
 ## What you are to hand in:
 
 1. Your matrix multiply code, optimized as much as you can.
+1. Error check similar to part A.
 1. Performance results for the 3 matrix multiply sizes - in the same format as
    in part A.
 1. Create a report that includes these figures and details any optimizations you
